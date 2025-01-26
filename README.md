@@ -15,3 +15,7 @@ Hi, I'm Holden. I am a Data Analyst with expertise in product development and st
 - Language: SQL, Python
 - Database: Google BigQuery, PostgreSQL, MySQL
 - Visualization: Tableau, Power BI, Metabase
+
+##### Portfolio:
+
+View my projects here: [Projects](https://github.com/Holdenj42/Portfolio-Guide/blob/main/README.md)
